@@ -1,2 +1,2 @@
-# Twitter-Projects
-Projects Associated with Twitter
+# twitterProject
+Python Project dealing with twitter.
